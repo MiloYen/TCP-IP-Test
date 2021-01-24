@@ -1,0 +1,10 @@
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\bin\Debug\TCPIP Test.exe.config
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\bin\Debug\TCPIP Test.exe
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\bin\Debug\TCPIP Test.pdb
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\obj\Debug\TCPIP Test.csprojAssemblyReference.cache
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\obj\Debug\TCPIP_Test.Form1.resources
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\obj\Debug\TCPIP_Test.Properties.Resources.resources
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\obj\Debug\TCPIP Test.csproj.GenerateResource.cache
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\obj\Debug\TCPIP Test.csproj.CoreCompileInputs.cache
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\obj\Debug\TCPIP Test.exe
+C:\Users\Abiz20201\source\repos\TCPIP Test\TCPIP Test\obj\Debug\TCPIP Test.pdb
